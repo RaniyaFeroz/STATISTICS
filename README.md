@@ -8,5 +8,5 @@ Project Highlights
 	•	Demonstrated practical application of statistics in data science.
 
 Technologies Used
-	•	Python / R / Excel (whichever you used)
-	•	Pandas, NumPy, Matplotlib, Seaborn (if Python)
+	•	Python 
+	•	Pandas, NumPy, Matplotlib, Seaborn 
